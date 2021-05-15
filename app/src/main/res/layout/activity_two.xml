@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <EditText
+        android:id="@+id/textInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="cursive"
+        android:inputType="text"
+        android:textSize="32sp"
+        android:hint="@string/inputText"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/textInput2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textStyle="bold"
+        android:textColor="@color/design_default_color_primary_variant"
+        android:inputType="textPersonName"
+        android:textSize="32sp"
+        android:hint="@string/inputTextPersonName"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="casual"
+        android:inputType="phone"
+        android:textSize="32sp"
+        android:hint="@string/phone"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number"
+        android:textSize="32sp"
+        android:hint="@string/number"
+        android:autofillHints="" />
+
+
+    <EditText
+        android:id="@+id/textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:textSize="32sp"
+        android:hint="@string/textPassword"
+        android:autofillHints=""
+        android:fontFamily="serif"
+        tools:ignore="DuplicateIds" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:textSize="32sp"
+        android:hint="@string/textEmail"
+        android:autofillHints=""
+        android:fontFamily="sans-serif-condensed-medium"
+        tools:ignore="DuplicateIds" />
+
+
+
+
+
+</LinearLayout>
