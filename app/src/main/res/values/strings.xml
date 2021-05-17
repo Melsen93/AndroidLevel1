@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyFirstApp</string>
+    <string name="app_name">IntAdder</string>
+    <string name="summa">Сумма</string>
+    <string name="count_one">COUNT ONE</string>
+    <string name="count_two">COUNT TWO</string>
+
 </resources>
