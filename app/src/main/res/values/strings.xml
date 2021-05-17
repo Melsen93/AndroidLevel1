@@ -1,17 +1,7 @@
 <resources>
-    <string name="app_name">MyThreeApp</string>
-    <string name="name">name</string>
-    <string name="todo">todo</string>
-    <string name="radiobutton1">radiobutton1</string>
-    <string name="radiobutton2">radiobutton2</string>
-    <string name="hello_friend">Hello,friend!</string>
-    <string name="button">button</string>
-    <string name="checkbox">checkbox</string>
-    <string name="togglebutton">ToggleButton</string>
-    <string name="inputText">InputText</string>
-    <string name="inputTextPersonName">InputTextPersonName</string>
-    <string name="phone">+7(910)-428-19-78</string>
-    <string name="number">9104281978</string>
-    <string name="textPassword">textPassword</string>
-    <string name="textEmail">melsen@yandex.ru</string>
+    <string name="app_name">IntAdder</string>
+    <string name="summa">Сумма</string>
+    <string name="count_one">COUNT ONE</string>
+    <string name="count_two">COUNT TWO</string>
+
 </resources>
