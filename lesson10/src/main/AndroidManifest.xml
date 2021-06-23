@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="ru.geekbrains.lesson9">
+    package="ru.geekbrains.lesson10">
 
     <application
         android:allowBackup="true"
@@ -11,7 +11,8 @@
         android:supportsRtl="true"
         tools:ignore="AllowBackup"
         android:theme="@style/MyStyle.NoActionBar">
-        <activity android:name="ru.geekbrains.lesson9.MainActivity" android:screenOrientation="portrait">
+        <activity android:name="ru.geekbrains.lesson10.MainActivity" android:screenOrientation="portrait">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
